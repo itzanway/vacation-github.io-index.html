@@ -1,0 +1,46 @@
+html {
+    font-size: 22px;
+}
+
+body {
+    background-color: #fff7f7;
+    color: rgb(1, 1, 1);
+}
+
+a {
+    color:rgb(158, 7, 245);
+}
+
+a:visited {
+    color: rgb(10, 205, 127);
+}
+
+a:hover, a:active {
+    color: #f60000;
+}
+
+h3 {
+    font-size: 32px;
+    color: darkblue;
+    
+}
+img {
+     height :"267";
+    display: block;
+    width:344px;
+    margin:auto;
+}
+figcaption {
+    height:344px;
+    display:block;
+    width:344px;
+    margin:auto;
+
+}
+
+h2, h3{
+    font-size: 32px;
+    color: rgb(22, 127, 203);
+    font-family: algerian;
+}
+
